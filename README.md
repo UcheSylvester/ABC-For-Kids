@@ -1,2 +1,2 @@
 # Alphabetic-Sounds
-An web app for learning the English alphabets and sounds
+A web app designed to help kids learn the English Alphabets
